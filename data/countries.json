@@ -1,0 +1,1550 @@
+[
+	{
+		"name": "Russia",
+		"type": "Country",
+		"sqMiles": 6323482,
+		"sqKm": 16377742
+	},
+	{
+		"name": "Canada",
+		"type": "Country",
+		"sqMiles": 3511023,
+		"sqKm": 9093507
+	},
+	{
+		"name": "China",
+		"type": "Country",
+		"sqMiles": 3600950,
+		"sqKm": 9326410
+	},
+	{
+		"name": "United States",
+		"type": "Country",
+		"sqMiles": 3531925,
+		"sqKm": 9147643
+	},
+	{
+		"name": "Brazil",
+		"type": "Country",
+		"sqMiles": 3266584,
+		"sqKm": 8460415
+	},
+	{
+		"name": "Australia",
+		"type": "Country",
+		"sqMiles": 2947336,
+		"sqKm": 7633565
+	},
+	{
+		"name": "India",
+		"type": "Country",
+		"sqMiles": 1105805,
+		"sqKm": 2864021
+	},
+	{
+		"name": "Argentina",
+		"type": "Country",
+		"sqMiles": 1056640,
+		"sqKm": 2736690
+	},
+	{
+		"name": "Kazakhstan",
+		"type": "Country",
+		"sqMiles": 1042400,
+		"sqKm": 2699700
+	},
+	{
+		"name": "Algeria",
+		"type": "Country",
+		"sqMiles": 919595,
+		"sqKm": 2381741
+	},
+	{
+		"name": "Democratic Republic of the Congo",
+		"type": "Country",
+		"sqMiles": 875312,
+		"sqKm": 2267048
+	},
+	{
+		"name": "Greenland (DK)",
+		"type": "Country",
+		"sqMiles": 836330,
+		"sqKm": 2166086
+	},
+	{
+		"name": "Saudi Arabia",
+		"type": "Country",
+		"sqMiles": 830000,
+		"sqKm": 2149690
+	},
+	{
+		"name": "Mexico",
+		"type": "Country",
+		"sqMiles": 750561,
+		"sqKm": 1943945
+	},
+	{
+		"name": "Indonesia",
+		"type": "Country",
+		"sqMiles": 699451,
+		"sqKm": 1811569
+	},
+	{
+		"name": "Sudan",
+		"type": "Country",
+		"sqMiles": 728215,
+		"sqKm": 1886068
+	},
+	{
+		"name": "Libya",
+		"type": "Country",
+		"sqMiles": 679360,
+		"sqKm": 1759540
+	},
+	{
+		"name": "Iran",
+		"type": "Country",
+		"sqMiles": 591352,
+		"sqKm": 1531595
+	},
+	{
+		"name": "Mongolia",
+		"type": "Country",
+		"sqMiles": 599831,
+		"sqKm": 1553556
+	},
+	{
+		"name": "Peru",
+		"type": "Country",
+		"sqMiles": 494209,
+		"sqKm": 1279996
+	},
+	{
+		"name": "Chad",
+		"type": "Country",
+		"sqMiles": 486200,
+		"sqKm": 1259200
+	},
+	{
+		"name": "Niger",
+		"type": "Country",
+		"sqMiles": 489100,
+		"sqKm": 1266700
+	},
+	{
+		"name": "Angola",
+		"type": "Country",
+		"sqMiles": 481400,
+		"sqKm": 1246700
+	},
+	{
+		"name": "Mali",
+		"type": "Country",
+		"sqMiles": 471120,
+		"sqKm": 1220190
+	},
+	{
+		"name": "South Africa",
+		"type": "Country",
+		"sqMiles": 468910,
+		"sqKm": 1214470
+	},
+	{
+		"name": "Colombia",
+		"type": "Country",
+		"sqMiles": 401000,
+		"sqKm": 1038700
+	},
+	{
+		"name": "Ethiopia",
+		"type": "Country",
+		"sqMiles": 426400,
+		"sqKm": 1104000
+	},
+	{
+		"name": "Bolivia",
+		"type": "Country",
+		"sqMiles": 418265,
+		"sqKm": 1083301
+	},
+	{
+		"name": "Mauritania",
+		"type": "Country",
+		"sqMiles": 395960,
+		"sqKm": 1025520
+	},
+	{
+		"name": "Egypt",
+		"type": "Country",
+		"sqMiles": 384350,
+		"sqKm": 995450
+	},
+	{
+		"name": "Tanzania",
+		"type": "Country",
+		"sqMiles": 342000,
+		"sqKm": 885800
+	},
+	{
+		"name": "Nigeria",
+		"type": "Country",
+		"sqMiles": 351649,
+		"sqKm": 910768
+	},
+	{
+		"name": "Venezuela",
+		"type": "Country",
+		"sqMiles": 340560,
+		"sqKm": 882050
+	},
+	{
+		"name": "Pakistan",
+		"type": "Country",
+		"sqMiles": 340508,
+		"sqKm": 881912
+	},
+	{
+		"name": "Namibia",
+		"type": "Country",
+		"sqMiles": 317870,
+		"sqKm": 823290
+	},
+	{
+		"name": "Mozambique",
+		"type": "Country",
+		"sqMiles": 303620,
+		"sqKm": 786380
+	},
+	{
+		"name": "Turkey",
+		"type": "Country",
+		"sqMiles": 297157,
+		"sqKm": 769632
+	},
+	{
+		"name": "Chile",
+		"type": "Country",
+		"sqMiles": 287187,
+		"sqKm": 743812
+	},
+	{
+		"name": "Zambia",
+		"type": "Country",
+		"sqMiles": 287028,
+		"sqKm": 743398
+	},
+	{
+		"name": "Myanmar",
+		"type": "Country",
+		"sqMiles": 252321,
+		"sqKm": 653508
+	},
+	{
+		"name": "Afghanistan",
+		"type": "Country",
+		"sqMiles": 251830,
+		"sqKm": 652230
+	},
+	{
+		"name": "France",
+		"type": "Country",
+		"sqMiles": 247270,
+		"sqKm": 640427
+	},
+	{
+		"name": "Somalia",
+		"type": "Country",
+		"sqMiles": 242216,
+		"sqKm": 627337
+	},
+	{
+		"name": "Central African Republic",
+		"type": "Country",
+		"sqMiles": 240535,
+		"sqKm": 622984
+	},
+	{
+		"name": "South Sudan",
+		"type": "Country",
+		"sqMiles": 239285,
+		"sqKm": 619745
+	},
+	{
+		"name": "Ukraine",
+		"type": "Country",
+		"sqMiles": 213725,
+		"sqKm": 553544
+	},
+	{
+		"name": "Madagascar",
+		"type": "Country",
+		"sqMiles": 224530,
+		"sqKm": 581540
+	},
+	{
+		"name": "Botswana",
+		"type": "Country",
+		"sqMiles": 218820,
+		"sqKm": 566730
+	},
+	{
+		"name": "Kenya",
+		"type": "Country",
+		"sqMiles": 219750,
+		"sqKm": 569140
+	},
+	{
+		"name": "Yemen",
+		"type": "Country",
+		"sqMiles": 203850,
+		"sqKm": 527968
+	},
+	{
+		"name": "Thailand",
+		"type": "Country",
+		"sqMiles": 197260,
+		"sqKm": 510890
+	},
+	{
+		"name": "Spain",
+		"type": "Country",
+		"sqMiles": 192660,
+		"sqKm": 498980
+	},
+	{
+		"name": "Turkmenistan",
+		"type": "Country",
+		"sqMiles": 181440,
+		"sqKm": 469930
+	},
+	{
+		"name": "Cameroon",
+		"type": "Country",
+		"sqMiles": 182510,
+		"sqKm": 472710
+	},
+	{
+		"name": "Papua New Guinea",
+		"type": "Country",
+		"sqMiles": 174850,
+		"sqKm": 452860
+	},
+	{
+		"name": "Sweden",
+		"type": "Country",
+		"sqMiles": 158431,
+		"sqKm": 410335
+	},
+	{
+		"name": "Uzbekistan",
+		"type": "Country",
+		"sqMiles": 164200,
+		"sqKm": 425400
+	},
+	{
+		"name": "Morocco",
+		"type": "Country",
+		"sqMiles": 172300,
+		"sqKm": 446300
+	},
+	{
+		"name": "Iraq",
+		"type": "Country",
+		"sqMiles": 168868,
+		"sqKm": 437367
+	},
+	{
+		"name": "Paraguay",
+		"type": "Country",
+		"sqMiles": 153399,
+		"sqKm": 397302
+	},
+	{
+		"name": "Zimbabwe",
+		"type": "Country",
+		"sqMiles": 149362,
+		"sqKm": 386847
+	},
+	{
+		"name": "Japan",
+		"type": "Country",
+		"sqMiles": 140728,
+		"sqKm": 364485
+	},
+	{
+		"name": "Germany",
+		"type": "Country",
+		"sqMiles": 134623,
+		"sqKm": 348672
+	},
+	{
+		"name": "Republic of the Congo",
+		"type": "Country",
+		"sqMiles": 131900,
+		"sqKm": 341500
+	},
+	{
+		"name": "Finland",
+		"type": "Country",
+		"sqMiles": 117304,
+		"sqKm": 303815
+	},
+	{
+		"name": "Vietnam",
+		"type": "Country",
+		"sqMiles": 119720,
+		"sqKm": 310070
+	},
+	{
+		"name": "Malaysia",
+		"type": "Country",
+		"sqMiles": 127264,
+		"sqKm": 329613
+	},
+	{
+		"name": "Norway",
+		"type": "Country",
+		"sqMiles": 117484,
+		"sqKm": 304282
+	},
+	{
+		"name": "Ivory Coast",
+		"type": "Country",
+		"sqMiles": 122782,
+		"sqKm": 318003
+	},
+	{
+		"name": "Poland",
+		"type": "Country",
+		"sqMiles": 120421,
+		"sqKm": 311888
+	},
+	{
+		"name": "Oman",
+		"type": "Country",
+		"sqMiles": 119500,
+		"sqKm": 309500
+	},
+	{
+		"name": "Italy",
+		"type": "Country",
+		"sqMiles": 113570,
+		"sqKm": 294140
+	},
+	{
+		"name": "Philippines",
+		"type": "Country",
+		"sqMiles": 115120,
+		"sqKm": 298170
+	},
+	{
+		"name": "Ecuador",
+		"type": "Country",
+		"sqMiles": 98985,
+		"sqKm": 256369
+	},
+	{
+		"name": "Burkina Faso",
+		"type": "Country",
+		"sqMiles": 105638,
+		"sqKm": 273602
+	},
+	{
+		"name": "New Zealand",
+		"type": "Country",
+		"sqMiles": 101330,
+		"sqKm": 262443
+	},
+	{
+		"name": "Gabon",
+		"type": "Country",
+		"sqMiles": 99486,
+		"sqKm": 257667
+	},
+	{
+		"name": "Western Sahara",
+		"type": "Country",
+		"sqMiles": 102703,
+		"sqKm": 266000
+	},
+	{
+		"name": "Guinea",
+		"type": "Country",
+		"sqMiles": 94872,
+		"sqKm": 245717
+	},
+	{
+		"name": "United Kingdom",
+		"type": "Country",
+		"sqMiles": 93410,
+		"sqKm": 241930
+	},
+	{
+		"name": "Uganda",
+		"type": "Country",
+		"sqMiles": 76100,
+		"sqKm": 197100
+	},
+	{
+		"name": "Ghana",
+		"type": "Country",
+		"sqMiles": 87851,
+		"sqKm": 227533
+	},
+	{
+		"name": "Romania",
+		"type": "Country",
+		"sqMiles": 89302,
+		"sqKm": 231291
+	},
+	{
+		"name": "Laos",
+		"type": "Country",
+		"sqMiles": 89100,
+		"sqKm": 230800
+	},
+	{
+		"name": "Guyana",
+		"type": "Country",
+		"sqMiles": 76004,
+		"sqKm": 196849
+	},
+	{
+		"name": "Belarus",
+		"type": "Country",
+		"sqMiles": 78300,
+		"sqKm": 202900
+	},
+	{
+		"name": "Kyrgyzstan",
+		"type": "Country",
+		"sqMiles": 74055,
+		"sqKm": 191801
+	},
+	{
+		"name": "Senegal",
+		"type": "Country",
+		"sqMiles": 74340,
+		"sqKm": 192530
+	},
+	{
+		"name": "Syria",
+		"type": "Country",
+		"sqMiles": 70900,
+		"sqKm": 183630
+	},
+	{
+		"name": "Cambodia",
+		"type": "Country",
+		"sqMiles": 68153,
+		"sqKm": 176515
+	},
+	{
+		"name": "Uruguay",
+		"type": "Country",
+		"sqMiles": 67574,
+		"sqKm": 175015
+	},
+	{
+		"name": "Suriname",
+		"type": "Country",
+		"sqMiles": 60000,
+		"sqKm": 156000
+	},
+	{
+		"name": "Tunisia",
+		"type": "Country",
+		"sqMiles": 59980,
+		"sqKm": 155360
+	},
+	{
+		"name": "Bangladesh",
+		"type": "Country",
+		"sqMiles": 50258,
+		"sqKm": 130168
+	},
+	{
+		"name": "Nepal",
+		"type": "Country",
+		"sqMiles": 55348,
+		"sqKm": 143351
+	},
+	{
+		"name": "Tajikistan",
+		"type": "Country",
+		"sqMiles": 54640,
+		"sqKm": 141510
+	},
+	{
+		"name": "Somaliland",
+		"type": "Country",
+		"sqMiles": 53100,
+		"sqKm": 137600
+	},
+	{
+		"name": "Greece",
+		"type": "Country",
+		"sqMiles": 50443,
+		"sqKm": 130647
+	},
+	{
+		"name": "Nicaragua",
+		"type": "Country",
+		"sqMiles": 46330,
+		"sqKm": 119990
+	},
+	{
+		"name": "North Korea",
+		"type": "Country",
+		"sqMiles": 46490,
+		"sqKm": 120408
+	},
+	{
+		"name": "Malawi",
+		"type": "Country",
+		"sqMiles": 36320,
+		"sqKm": 94080
+	},
+	{
+		"name": "Eritrea",
+		"type": "Country",
+		"sqMiles": 39000,
+		"sqKm": 101000
+	},
+	{
+		"name": "Benin",
+		"type": "Country",
+		"sqMiles": 44133,
+		"sqKm": 114305
+	},
+	{
+		"name": "Honduras",
+		"type": "Country",
+		"sqMiles": 43200,
+		"sqKm": 111890
+	},
+	{
+		"name": "Liberia",
+		"type": "Country",
+		"sqMiles": 37190,
+		"sqKm": 96320
+	},
+	{
+		"name": "Bulgaria",
+		"type": "Country",
+		"sqMiles": 41888,
+		"sqKm": 108489
+	},
+	{
+		"name": "Cuba",
+		"type": "Country",
+		"sqMiles": 42400,
+		"sqKm": 109820
+	},
+	{
+		"name": "Guatemala",
+		"type": "Country",
+		"sqMiles": 41374,
+		"sqKm": 107159
+	},
+	{
+		"name": "Iceland",
+		"type": "Country",
+		"sqMiles": 38710,
+		"sqKm": 100250
+	},
+	{
+		"name": "South Korea",
+		"type": "Country",
+		"sqMiles": 38575,
+		"sqKm": 99909
+	},
+	{
+		"name": "Hungary",
+		"type": "Country",
+		"sqMiles": 34598,
+		"sqKm": 89608
+	},
+	{
+		"name": "Portugal",
+		"type": "Country",
+		"sqMiles": 35320,
+		"sqKm": 91470
+	},
+	{
+		"name": "Jordan",
+		"type": "Country",
+		"sqMiles": 34287,
+		"sqKm": 88802
+	},
+	{
+		"name": "Serbia",
+		"type": "Country",
+		"sqMiles": 34072,
+		"sqKm": 88246
+	},
+	{
+		"name": "Azerbaijan",
+		"type": "Country",
+		"sqMiles": 33200,
+		"sqKm": 86100
+	},
+	{
+		"name": "Austria",
+		"type": "Country",
+		"sqMiles": 31832,
+		"sqKm": 82445
+	},
+	{
+		"name": "United Arab Emirates",
+		"type": "Country",
+		"sqMiles": 32300,
+		"sqKm": 83600
+	},
+	{
+		"name": "Czech Republic",
+		"type": "Country",
+		"sqMiles": 29825,
+		"sqKm": 77247
+	},
+	{
+		"name": "Panama",
+		"type": "Country",
+		"sqMiles": 28700,
+		"sqKm": 74340
+	},
+	{
+		"name": "Sierra Leone",
+		"type": "Country",
+		"sqMiles": 27650,
+		"sqKm": 71620
+	},
+	{
+		"name": "Ireland",
+		"type": "Country",
+		"sqMiles": 26596,
+		"sqKm": 68883
+	},
+	{
+		"name": "Georgia",
+		"type": "Country",
+		"sqMiles": 26900,
+		"sqKm": 69700
+	},
+	{
+		"name": "Sri Lanka",
+		"type": "Country",
+		"sqMiles": 24221,
+		"sqKm": 62732
+	},
+	{
+		"name": "Lithuania",
+		"type": "Country",
+		"sqMiles": 24200,
+		"sqKm": 62680
+	},
+	{
+		"name": "Latvia",
+		"type": "Country",
+		"sqMiles": 24034,
+		"sqKm": 62249
+	},
+	{
+		"name": "Svalbard (NO)",
+		"type": "Country",
+		"sqMiles": 23956,
+		"sqKm": 62045
+	},
+	{
+		"name": "Togo",
+		"type": "Country",
+		"sqMiles": 20998,
+		"sqKm": 54385
+	},
+	{
+		"name": "Croatia",
+		"type": "Country",
+		"sqMiles": 21612,
+		"sqKm": 55974
+	},
+	{
+		"name": "Bosnia and Herzegovina",
+		"type": "Country",
+		"sqMiles": 19763,
+		"sqKm": 51187
+	},
+	{
+		"name": "Costa Rica",
+		"type": "Country",
+		"sqMiles": 19710,
+		"sqKm": 51060
+	},
+	{
+		"name": "Slovakia",
+		"type": "Country",
+		"sqMiles": 18573,
+		"sqKm": 48105
+	},
+	{
+		"name": "Dominican Republic",
+		"type": "Country",
+		"sqMiles": 18660,
+		"sqKm": 48320
+	},
+	{
+		"name": "Estonia",
+		"type": "Country",
+		"sqMiles": 16366,
+		"sqKm": 42388
+	},
+	{
+		"name": "Denmark",
+		"type": "Country",
+		"sqMiles": 16384,
+		"sqKm": 42434
+	},
+	{
+		"name": "Netherlands",
+		"type": "Country",
+		"sqMiles": 13086,
+		"sqKm": 33893
+	},
+	{
+		"name": "Switzerland",
+		"type": "Country",
+		"sqMiles": 15443,
+		"sqKm": 39997
+	},
+	{
+		"name": "Bhutan",
+		"type": "Country",
+		"sqMiles": 14824,
+		"sqKm": 38394
+	},
+	{
+		"name": "Taiwan",
+		"type": "Country",
+		"sqMiles": 12460,
+		"sqKm": 32260
+	},
+	{
+		"name": " Guinea-Bissau",
+		"type": "Country",
+		"sqMiles": 10860,
+		"sqKm": 28120
+	},
+	{
+		"name": "Moldova",
+		"type": "Country",
+		"sqMiles": 12699,
+		"sqKm": 32891
+	},
+	{
+		"name": "Belgium",
+		"type": "Country",
+		"sqMiles": 11690,
+		"sqKm": 30278
+	},
+	{
+		"name": "Lesotho",
+		"type": "Country",
+		"sqMiles": 11720,
+		"sqKm": 30355
+	},
+	{
+		"name": "Armenia",
+		"type": "Country",
+		"sqMiles": 11522,
+		"sqKm": 29843
+	},
+	{
+		"name": "Solomon Islands",
+		"type": "Country",
+		"sqMiles": 10805,
+		"sqKm": 27986
+	},
+	{
+		"name": "Albania",
+		"type": "Country",
+		"sqMiles": 10578,
+		"sqKm": 27398
+	},
+	{
+		"name": "Equatorial Guinea",
+		"type": "Country",
+		"sqMiles": 10831,
+		"sqKm": 28051
+	},
+	{
+		"name": "Burundi",
+		"type": "Country",
+		"sqMiles": 9920,
+		"sqKm": 25680
+	},
+	{
+		"name": "Haiti",
+		"type": "Country",
+		"sqMiles": 10640,
+		"sqKm": 27560
+	},
+	{
+		"name": "Rwanda",
+		"type": "Country",
+		"sqMiles": 9524,
+		"sqKm": 24668
+	},
+	{
+		"name": "Macedonia",
+		"type": "Country",
+		"sqMiles": 9820,
+		"sqKm": 25433
+	},
+	{
+		"name": "Djibouti",
+		"type": "Country",
+		"sqMiles": 8950,
+		"sqKm": 23180
+	},
+	{
+		"name": "Belize",
+		"type": "Country",
+		"sqMiles": 8805,
+		"sqKm": 22806
+	},
+	{
+		"name": "El Salvador",
+		"type": "Country",
+		"sqMiles": 8000,
+		"sqKm": 20721
+	},
+	{
+		"name": "Israel",
+		"type": "Country",
+		"sqMiles": 7850,
+		"sqKm": 20330
+	},
+	{
+		"name": "Slovenia",
+		"type": "Country",
+		"sqMiles": 7780,
+		"sqKm": 20151
+	},
+	{
+		"name": "New Caledonia (FR)",
+		"type": "Country",
+		"sqMiles": 7056,
+		"sqKm": 18275
+	},
+	{
+		"name": "Fiji",
+		"type": "Country",
+		"sqMiles": 7056,
+		"sqKm": 18274
+	},
+	{
+		"name": "Kuwait",
+		"type": "Country",
+		"sqMiles": 6880,
+		"sqKm": 17818
+	},
+	{
+		"name": "Swaziland",
+		"type": "Country",
+		"sqMiles": 6643,
+		"sqKm": 17204
+	},
+	{
+		"name": "East Timor",
+		"type": "Country",
+		"sqMiles": 5743,
+		"sqKm": 14874
+	},
+	{
+		"name": "Bahamas",
+		"type": "Country",
+		"sqMiles": 3860,
+		"sqKm": 10010
+	},
+	{
+		"name": "Montenegro",
+		"type": "Country",
+		"sqMiles": 5194,
+		"sqKm": 13452
+	},
+	{
+		"name": "Vanuatu",
+		"type": "Country",
+		"sqMiles": 4706,
+		"sqKm": 12189
+	},
+	{
+		"name": "Falkland Islands (UK)",
+		"type": "Country",
+		"sqMiles": 4700,
+		"sqKm": 12173
+	},
+	{
+		"name": "Qatar",
+		"type": "Country",
+		"sqMiles": 4473,
+		"sqKm": 11586
+	},
+	{
+		"name": " Nagorno-Karabakh",
+		"type": "Country",
+		"sqMiles": 4424,
+		"sqKm": 11458
+	},
+	{
+		"name": "Gambia",
+		"type": "Country",
+		"sqMiles": 3900,
+		"sqKm": 10000
+	},
+	{
+		"name": "Jamaica",
+		"type": "Country",
+		"sqMiles": 4182,
+		"sqKm": 10831
+	},
+	{
+		"name": "Kosovo",
+		"type": "Country",
+		"sqMiles": 4212,
+		"sqKm": 10908
+	},
+	{
+		"name": "Lebanon",
+		"type": "Country",
+		"sqMiles": 3950,
+		"sqKm": 10230
+	},
+	{
+		"name": "Cyprus",
+		"type": "Country",
+		"sqMiles": 3568,
+		"sqKm": 9241
+	},
+	{
+		"name": "Puerto Rico (USA)",
+		"type": "Country",
+		"sqMiles": 3515,
+		"sqKm": 9104
+	},
+	{
+		"name": "Abkhazia",
+		"type": "Country",
+		"sqMiles": 3344,
+		"sqKm": 8660
+	},
+	{
+		"name": "French Southern and Antarctic Lands (FR)",
+		"type": "Country",
+		"sqMiles": 2961,
+		"sqKm": 7668
+	},
+	{
+		"name": "United States Minor Outlying Islands",
+		"type": "Country",
+		"sqMiles": 8.65,
+		"sqKm": 22.41
+	},
+	{
+		"name": "State of Palestine",
+		"type": "Country",
+		"sqMiles": 2180,
+		"sqKm": 5640
+	},
+	{
+		"name": "Brunei",
+		"type": "Country",
+		"sqMiles": 2033,
+		"sqKm": 5265
+	},
+	{
+		"name": "Trinidad and Tobago",
+		"type": "Country",
+		"sqMiles": 1980,
+		"sqKm": 5128
+	},
+	{
+		"name": "French Polynesia (FR)",
+		"type": "Country",
+		"sqMiles": 1478,
+		"sqKm": 3827
+	},
+	{
+		"name": "Transnistria",
+		"type": "Country",
+		"sqMiles": 1607,
+		"sqKm": 4163
+	},
+	{
+		"name": "Cape Verde",
+		"type": "Country",
+		"sqMiles": 1557,
+		"sqKm": 4033
+	},
+	{
+		"name": "South Georgia and the South Sandwich Islands (UK)",
+		"type": "Country",
+		"sqMiles": 1507,
+		"sqKm": 3903
+	},
+	{
+		"name": "South Ossetia",
+		"type": "Country",
+		"sqMiles": 1506,
+		"sqKm": 3900
+	},
+	{
+		"name": "Northern Cyprus",
+		"type": "Country",
+		"sqMiles": 1295,
+		"sqKm": 3355
+	},
+	{
+		"name": "Samoa",
+		"type": "Country",
+		"sqMiles": 1089,
+		"sqKm": 2821
+	},
+	{
+		"name": "Hong Kong (CN)",
+		"type": "Country",
+		"sqMiles": 427,
+		"sqKm": 1106
+	},
+	{
+		"name": "Luxembourg",
+		"type": "Country",
+		"sqMiles": 998,
+		"sqKm": 2586
+	},
+	{
+		"name": "Mauritius",
+		"type": "Country",
+		"sqMiles": 780,
+		"sqKm": 2030
+	},
+	{
+		"name": "Comoros",
+		"type": "Country",
+		"sqMiles": 719,
+		"sqKm": 1862
+	},
+	{
+		"name": "Åland Islands (FI)",
+		"type": "Country",
+		"sqMiles": 610,
+		"sqKm": 1580
+	},
+	{
+		"name": "Faroe Islands (DK)",
+		"type": "Country",
+		"sqMiles": 538,
+		"sqKm": 1393
+	},
+	{
+		"name": " São Tomé and Príncipe",
+		"type": "Country",
+		"sqMiles": 372,
+		"sqKm": 964
+	},
+	{
+		"name": "Turks and Caicos Islands (UK)",
+		"type": "Country",
+		"sqMiles": 170,
+		"sqKm": 430
+	},
+	{
+		"name": "Kiribati",
+		"type": "Country",
+		"sqMiles": 313,
+		"sqKm": 811
+	},
+	{
+		"name": "Bahrain",
+		"type": "Country",
+		"sqMiles": 295,
+		"sqKm": 765
+	},
+	{
+		"name": "Dominica",
+		"type": "Country",
+		"sqMiles": 290,
+		"sqKm": 751
+	},
+	{
+		"name": "Tonga",
+		"type": "Country",
+		"sqMiles": 277,
+		"sqKm": 717
+	},
+	{
+		"name": "Singapore",
+		"type": "Country",
+		"sqMiles": 265,
+		"sqKm": 687
+	},
+	{
+		"name": "Federated States of Micronesia",
+		"type": "Country",
+		"sqMiles": 271,
+		"sqKm": 702
+	},
+	{
+		"name": "Saint Lucia",
+		"type": "Country",
+		"sqMiles": 234,
+		"sqKm": 606
+	},
+	{
+		"name": "Isle of Man (UK)",
+		"type": "Country",
+		"sqMiles": 221,
+		"sqKm": 572
+	},
+	{
+		"name": "Guam (USA)",
+		"type": "Country",
+		"sqMiles": 210,
+		"sqKm": 544
+	},
+	{
+		"name": "Andorra",
+		"type": "Country",
+		"sqMiles": 181,
+		"sqKm": 468
+	},
+	{
+		"name": "Northern Mariana Islands (USA)",
+		"type": "Country",
+		"sqMiles": 179,
+		"sqKm": 464
+	},
+	{
+		"name": "Palau",
+		"type": "Country",
+		"sqMiles": 177,
+		"sqKm": 459
+	},
+	{
+		"name": "Seychelles",
+		"type": "Country",
+		"sqMiles": 176,
+		"sqKm": 455
+	},
+	{
+		"name": " Curaçao (NL)",
+		"type": "Country",
+		"sqMiles": 171,
+		"sqKm": 444
+	},
+	{
+		"name": "Antigua and Barbuda",
+		"type": "Country",
+		"sqMiles": 170.9,
+		"sqKm": 442.6
+	},
+	{
+		"name": "Barbados",
+		"type": "Country",
+		"sqMiles": 166,
+		"sqKm": 431
+	},
+	{
+		"name": "Heard Island and McDonald Islands (AU)",
+		"type": "Country",
+		"sqMiles": 159,
+		"sqKm": 412
+	},
+	{
+		"name": "Saint Vincent and the Grenadines",
+		"type": "Country",
+		"sqMiles": 150,
+		"sqKm": 389
+	},
+	{
+		"name": "Jan Mayen (NO)",
+		"type": "Country",
+		"sqMiles": 146,
+		"sqKm": 377
+	},
+	{
+		"name": "U.S. Virgin Islands (USA)",
+		"type": "Country",
+		"sqMiles": 134,
+		"sqKm": 346
+	},
+	{
+		"name": "Grenada",
+		"type": "Country",
+		"sqMiles": 133,
+		"sqKm": 344
+	},
+	{
+		"name": "Malta",
+		"type": "Country",
+		"sqMiles": 122,
+		"sqKm": 316
+	},
+	{
+		"name": "Saint Helena, Ascension and Tristan da Cunha (UK)",
+		"type": "Country",
+		"sqMiles": 119,
+		"sqKm": 308
+	},
+	{
+		"name": "Maldives",
+		"type": "Country",
+		"sqMiles": 115,
+		"sqKm": 298
+	},
+	{
+		"name": " Bonaire (NL)",
+		"type": "Country",
+		"sqMiles": 114,
+		"sqKm": 294
+	},
+	{
+		"name": "Cayman Islands (UK)",
+		"type": "Country",
+		"sqMiles": 102,
+		"sqKm": 264
+	},
+	{
+		"name": "Saint Kitts and Nevis",
+		"type": "Country",
+		"sqMiles": 101,
+		"sqKm": 261
+	},
+	{
+		"name": "Niue (New Zealand)",
+		"type": "Country",
+		"sqMiles": 100,
+		"sqKm": 260
+	},
+	{
+		"name": "Akrotiri and Dhekelia (UK)",
+		"type": "Country",
+		"sqMiles": 98,
+		"sqKm": 254
+	},
+	{
+		"name": "Saint Pierre and Miquelon (FR)",
+		"type": "Country",
+		"sqMiles": 93,
+		"sqKm": 242
+	},
+	{
+		"name": "Cook Islands (New Zealand)",
+		"type": "Country",
+		"sqMiles": 91,
+		"sqKm": 236
+	},
+	{
+		"name": "American Samoa (USA)",
+		"type": "Country",
+		"sqMiles": 77,
+		"sqKm": 199
+	},
+	{
+		"name": "Marshall Islands",
+		"type": "Country",
+		"sqMiles": 70,
+		"sqKm": 181
+	},
+	{
+		"name": "Aruba (NL)",
+		"type": "Country",
+		"sqMiles": 69,
+		"sqKm": 180
+	},
+	{
+		"name": "Liechtenstein",
+		"type": "Country",
+		"sqMiles": 62,
+		"sqKm": 160
+	},
+	{
+		"name": "British Virgin Islands (UK)",
+		"type": "Country",
+		"sqMiles": 58,
+		"sqKm": 151
+	},
+	{
+		"name": "Wallis and Futuna (FR)",
+		"type": "Country",
+		"sqMiles": 55,
+		"sqKm": 142
+	},
+	{
+		"name": "Christmas Island (AU)",
+		"type": "Country",
+		"sqMiles": 52,
+		"sqKm": 135
+	},
+	{
+		"name": "Jersey (UK)",
+		"type": "Country",
+		"sqMiles": 45,
+		"sqKm": 116
+	},
+	{
+		"name": "Montserrat (UK)",
+		"type": "Country",
+		"sqMiles": 39,
+		"sqKm": 102
+	},
+	{
+		"name": "Anguilla (UK)",
+		"type": "Country",
+		"sqMiles": 35,
+		"sqKm": 91
+	},
+	{
+		"name": "Guernsey (UK)",
+		"type": "Country",
+		"sqMiles": 30,
+		"sqKm": 78
+	},
+	{
+		"name": "San Marino",
+		"type": "Country",
+		"sqMiles": 24,
+		"sqKm": 61
+	},
+	{
+		"name": "British Indian Ocean Territory (UK)",
+		"type": "Country",
+		"sqMiles": 23,
+		"sqKm": 60
+	},
+	{
+		"name": "Saint Martin (FR)",
+		"type": "Country",
+		"sqMiles": 21.0,
+		"sqKm": 54.4
+	},
+	{
+		"name": "Bermuda (UK)",
+		"type": "Country",
+		"sqMiles": 21,
+		"sqKm": 54
+	},
+	{
+		"name": "Bouvet Island (NO)",
+		"type": "Country",
+		"sqMiles": 19,
+		"sqKm": 49
+	},
+	{
+		"name": "Pitcairn Islands (UK)",
+		"type": "Country",
+		"sqMiles": 18,
+		"sqKm": 47
+	},
+	{
+		"name": "Norfolk Island (AU)",
+		"type": "Country",
+		"sqMiles": 14,
+		"sqKm": 36
+	},
+	{
+		"name": "Sint Maarten (NL)",
+		"type": "Country",
+		"sqMiles": 13,
+		"sqKm": 34
+	},
+	{
+		"name": "Macau (CN)",
+		"type": "Country",
+		"sqMiles": 10.9,
+		"sqKm": 28.2
+	},
+	{
+		"name": "Tuvalu",
+		"type": "Country",
+		"sqMiles": 10,
+		"sqKm": 26
+	},
+	{
+		"name": "Nauru",
+		"type": "Country",
+		"sqMiles": 8.1,
+		"sqKm": 21
+	},
+	{
+		"name": "Saint Barthélemy (FR)",
+		"type": "Country",
+		"sqMiles": 9.5,
+		"sqKm": 25
+	},
+	{
+		"name": " Sint Eustatius (NL)",
+		"type": "Country",
+		"sqMiles": 8,
+		"sqKm": 21
+	},
+	{
+		"name": "Cocos (Keeling) Islands (AU)",
+		"type": "Country",
+		"sqMiles": 5.4,
+		"sqKm": 14
+	},
+	{
+		"name": " Saba (NL)",
+		"type": "Country",
+		"sqMiles": 5,
+		"sqKm": 13
+	},
+	{
+		"name": "Tokelau (New Zealand)",
+		"type": "Country",
+		"sqMiles": 4.6,
+		"sqKm": 12
+	},
+	{
+		"name": "Gibraltar (UK)",
+		"type": "Country",
+		"sqMiles": 2.5,
+		"sqKm": 6.5
+	},
+	{
+		"name": "Clipperton Island (FR)",
+		"type": "Country",
+		"sqMiles": 2.3,
+		"sqKm": 6
+	},
+	{
+		"name": "Ashmore and Cartier Islands (AU)",
+		"type": "Country",
+		"sqMiles": 1.9,
+		"sqKm": 5
+	},
+	{
+		"name": "  Spratly Islands (disputed)",
+		"type": "Country",
+		"sqMiles": 1.5,
+		"sqKm": 2
+	},
+	{
+		"name": "Coral Sea Islands (AU)",
+		"type": "Country",
+		"sqMiles": 1.2,
+		"sqKm": 3
+	},
+	{
+		"name": "Monaco",
+		"type": "Country",
+		"sqMiles": 0.78,
+		"sqKm": 2.02
+	},
+	{
+		"name": "Vatican City",
+		"type": "Country",
+		"sqMiles": 0.17,
+		"sqKm": 0.44
+	}
+]

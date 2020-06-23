@@ -1,0 +1,16 @@
+<div class="page" ng-controller="MainController"><div class="page-head"><h1>Compare Land Areas</h1><p>Compare the size (area) of continents, countries, Canadian Territories, and US States.</p></div><div class="page-body"><div class="page-controls"><div class="search input-group input-group-lg"><input type="text" class="form-control" ng-model="searchInput" uib-typeahead="land as land.name for land in allLand | filter:$viewValue | limitTo:8" typeahead-on-select="searchLand(searchInput)" placeholder="Enter continent, country, or state name"><div class="input-group-addon"><span class="glyphicon glyphicon-search"></span></div></div><button type="button" class="reset btn btn-default btn-lg" ng-click="reset()"><span class="glyphicon glyphicon-refresh"></span> Reset</button> <button type="button" class="filter btn btn-default btn-lg" uib-popover-template="landFilterPopover.templateUrl" popover-placement="bottom"><span class="glyphicon glyphicon-list"></span> Filter</button></div><div class="main-board" ng-class="{'empty':!selected.length}"><ul data-name="legends"><li ng-repeat="land in selected track by $index" ng-click="removeLand(land)" style="border-color:{{land.color}}"><span class="legend-color" style="background-color:{{land.color}}"></span> <strong>{{ land.name }}</strong> <small class="glyphicon glyphicon-remove"></small></li></ul><ul data-name="compare-land"><li ng-repeat="land in selected track by $index"><div class="land-details tip"><span class="land-name"><strong>{{ land.name }}</strong> </span><span class="land-area">{{ land.sqKm | number }} km<sup>2</sup></span> <span class="land-area">{{ land.sqMiles | number }} mi<sup>2</sup></span></div><div class="land-dot" style="background-color:{{land.color}};height:{{land.relativeArea}}px; width:{{land.relativeArea}}px"></div></li></ul></div></div><script type="text/ng-template" id="landFilter.html"><div class="control" data-name="land-filter">
+			<div class="btn-group">
+				<button type="button" class="btn btn-default btn-sm" ng-model="typeFilter" ng-class="{'active':!typeFilter}" ng-click="typeFilter=''">
+					<span class="glyphicon glyphicon-globe"></span>
+				</button>
+				<button type="button" class="btn btn-default btn-sm" ng-model="typeFilter" ng-class="{'active':typeFilter==='Continent'}" ng-click="typeFilter='Continent'">Continents</button>
+				<button type="button" class="btn btn-default btn-sm" ng-model="typeFilter" ng-class="{'active':typeFilter==='Country'}" ng-click="typeFilter='Country'">Countries</button>
+				<button type="button" class="btn btn-default btn-sm" ng-model="typeFilter" ng-class="{'active':typeFilter==='State'}" ng-click="typeFilter='State'">US States</button>
+			</div>
+		</div>
+		<ul class="land-list" ng-show="filteredList.length" ng-cloak>
+			<li ng-repeat="land in filteredList = (allLand | filter:search | filter:{ type: typeFilter }) track by $index" ng-class="{'active':land.isActive}" ng-click="toggleLand(land)">
+				<span class="land-name">{{ land.name }}</span>
+				<span class="glyphicon glyphicon-ok"></span>
+			</li>
+		</ul></script></div>

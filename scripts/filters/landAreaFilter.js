@@ -1,0 +1,1 @@
+angular.module("app").filter("landArea",function(){return function(n){return n=Math.round(Math.sqrt(n))+"px"}});

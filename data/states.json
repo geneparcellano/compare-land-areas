@@ -1,0 +1,302 @@
+[
+	{
+		"name": "Alaska",
+		"type": "State",
+		"sqMiles": 665384.04,
+		"sqKm": 1723337
+	},
+	{
+		"name": "Texas",
+		"type": "State",
+		"sqMiles": 268596.46,
+		"sqKm": 695662
+	},
+	{
+		"name": "California",
+		"type": "State",
+		"sqMiles": 163694.74,
+		"sqKm": 423967
+	},
+	{
+		"name": "Montana",
+		"type": "State",
+		"sqMiles": 147039.71,
+		"sqKm": 380831
+	},
+	{
+		"name": "New Mexico",
+		"type": "State",
+		"sqMiles": 121590.30,
+		"sqKm": 314917
+	},
+	{
+		"name": "Arizona",
+		"type": "State",
+		"sqMiles": 113990.30,
+		"sqKm": 295234
+	},
+	{
+		"name": "Nevada",
+		"type": "State",
+		"sqMiles": 110571.82,
+		"sqKm": 286380
+	},
+	{
+		"name": "Colorado",
+		"type": "State",
+		"sqMiles": 104093.67,
+		"sqKm": 269601
+	},
+	{
+		"name": "Oregon",
+		"type": "State",
+		"sqMiles": 98378.54,
+		"sqKm": 254799
+	},
+	{
+		"name": "Wyoming",
+		"type": "State",
+		"sqMiles": 97813.01,
+		"sqKm": 253335
+	},
+	{
+		"name": "Michigan",
+		"type": "State",
+		"sqMiles": 96713.51,
+		"sqKm": 250487
+	},
+	{
+		"name": "Minnesota",
+		"type": "State",
+		"sqMiles": 86935.83,
+		"sqKm": 225163
+	},
+	{
+		"name": "Utah",
+		"type": "State",
+		"sqMiles": 84896.88,
+		"sqKm": 219882
+	},
+	{
+		"name": "Idaho",
+		"type": "State",
+		"sqMiles": 83568.95,
+		"sqKm": 216443
+	},
+	{
+		"name": "Kansas",
+		"type": "State",
+		"sqMiles": 82278.36,
+		"sqKm": 213100
+	},
+	{
+		"name": "Nebraska",
+		"type": "State",
+		"sqMiles": 77347.81,
+		"sqKm": 200330
+	},
+	{
+		"name": "South Dakota",
+		"type": "State",
+		"sqMiles": 77115.68,
+		"sqKm": 199729
+	},
+	{
+		"name": "Washington",
+		"type": "State",
+		"sqMiles": 71297.95,
+		"sqKm": 184661
+	},
+	{
+		"name": "North Dakota",
+		"type": "State",
+		"sqMiles": 70698.32,
+		"sqKm": 183108
+	},
+	{
+		"name": "Oklahoma",
+		"type": "State",
+		"sqMiles": 69898.87,
+		"sqKm": 181037
+	},
+	{
+		"name": "Missouri",
+		"type": "State",
+		"sqMiles": 69706.99,
+		"sqKm": 180540
+	},
+	{
+		"name": "Florida",
+		"type": "State",
+		"sqMiles": 65757.70,
+		"sqKm": 170312
+	},
+	{
+		"name": "Wisconsin",
+		"type": "State",
+		"sqMiles": 65496.38,
+		"sqKm": 169635
+	},
+	{
+		"name": "Georgia",
+		"type": "State",
+		"sqMiles": 59425.15,
+		"sqKm": 153910
+	},
+	{
+		"name": "Illinois",
+		"type": "State",
+		"sqMiles": 57913.55,
+		"sqKm": 149995
+	},
+	{
+		"name": "Iowa",
+		"type": "State",
+		"sqMiles": 56272.81,
+		"sqKm": 145746
+	},
+	{
+		"name": "New York",
+		"type": "State",
+		"sqMiles": 54554.98,
+		"sqKm": 141297
+	},
+	{
+		"name": "North Carolina",
+		"type": "State",
+		"sqMiles": 53819.16,
+		"sqKm": 139391
+	},
+	{
+		"name": "Arkansas",
+		"type": "State",
+		"sqMiles": 53178.55,
+		"sqKm": 137732
+	},
+	{
+		"name": "Alabama",
+		"type": "State",
+		"sqMiles": 52420.07,
+		"sqKm": 135767
+	},
+	{
+		"name": "Louisiana",
+		"type": "State",
+		"sqMiles": 52378.13,
+		"sqKm": 135659
+	},
+	{
+		"name": "Mississippi",
+		"type": "State",
+		"sqMiles": 48431.78,
+		"sqKm": 125438
+	},
+	{
+		"name": "Pennsylvania",
+		"type": "State",
+		"sqMiles": 46054.35,
+		"sqKm": 119280
+	},
+	{
+		"name": "Ohio",
+		"type": "State",
+		"sqMiles": 44825.58,
+		"sqKm": 116098
+	},
+	{
+		"name": "Virginia",
+		"type": "State",
+		"sqMiles": 42774.93,
+		"sqKm": 110787
+	},
+	{
+		"name": "Tennessee",
+		"type": "State",
+		"sqMiles": 42144.25,
+		"sqKm": 109153
+	},
+	{
+		"name": "Kentucky",
+		"type": "State",
+		"sqMiles": 40407.80,
+		"sqKm": 104656
+	},
+	{
+		"name": "Indiana",
+		"type": "State",
+		"sqMiles": 36419.55,
+		"sqKm": 94326
+	},
+	{
+		"name": "Maine",
+		"type": "State",
+		"sqMiles": 35379.74,
+		"sqKm": 91633
+	},
+	{
+		"name": "South Carolina",
+		"type": "State",
+		"sqMiles": 32020.49,
+		"sqKm": 82933
+	},
+	{
+		"name": "West Virginia",
+		"type": "State",
+		"sqMiles": 24230.04,
+		"sqKm": 62756
+	},
+	{
+		"name": "Maryland",
+		"type": "State",
+		"sqMiles": 12405.93,
+		"sqKm": 32131
+	},
+	{
+		"name": "Hawaii",
+		"type": "State",
+		"sqMiles": 10931.72,
+		"sqKm": 28313
+	},
+	{
+		"name": "Massachusetts",
+		"type": "State",
+		"sqMiles": 10554.39,
+		"sqKm": 27336
+	},
+	{
+		"name": "Vermont",
+		"type": "State",
+		"sqMiles": 9616.36,
+		"sqKm": 24906
+	},
+	{
+		"name": "New Hampshire",
+		"type": "State",
+		"sqMiles": 9349.16,
+		"sqKm": 24214
+	},
+	{
+		"name": "New Jersey",
+		"type": "State",
+		"sqMiles": 8722.58,
+		"sqKm": 22591
+	},
+	{
+		"name": "Connecticut",
+		"type": "State",
+		"sqMiles": 5543.41,
+		"sqKm": 14357
+	},
+	{
+		"name": "Delaware",
+		"type": "State",
+		"sqMiles": 2488.72,
+		"sqKm": 6446
+	},
+	{
+		"name": "Rhode Island",
+		"type": "State",
+		"sqMiles": 1544.89,
+		"sqKm": 4001
+	}
+]

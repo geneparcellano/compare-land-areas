@@ -1,0 +1,1 @@
+!function(){"use strict";angular.module("app",["ui.router","ui.bootstrap","ngAnimate"]),angular.module("app").config(["$stateProvider","$urlRouterProvider",function(t,r){t.state("root",{url:"",templateUrl:"templates/main.html"})}])}();

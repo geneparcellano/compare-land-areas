@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Earth (Land & Water)",
+		"type": "Continent",
+		"sqMiles": 196940000,
+		"sqKm": 510072000
+	},
+	{
+		"name": "Earth (Land Only)",
+		"type": "Continent",
+		"sqMiles": 57308738,
+		"sqKm": 148429000
+	},
+	{
+		"name": "Asia (Including the Middle East)",
+		"type": "Continent",
+		"sqMiles": 17212000,
+		"sqKm": 44579000
+	},
+	{
+		"name": "Africa",
+		"type": "Continent",
+		"sqMiles": 11608000,
+		"sqKm": 30065000
+	},
+	{
+		"name": "North America",
+		"type": "Continent",
+		"sqMiles": 9365000,
+		"sqKm": 24256000
+	},
+	{
+		"name": "South America",
+		"type": "Continent",
+		"sqMiles": 6880000,
+		"sqKm": 17819000
+	},
+	{
+		"name": "Antarctica",
+		"type": "Continent",
+		"sqMiles": 5100000,
+		"sqKm": 13209000
+	},
+	{
+		"name": "Europe",
+		"type": "Continent",
+		"sqMiles": 3837000,
+		"sqKm": 9938000
+	},
+	{
+		"name": "Australia (Including Oceania)",
+		"type": "Continent",
+		"sqMiles": 2968000,
+		"sqKm": 7687000
+	}
+]

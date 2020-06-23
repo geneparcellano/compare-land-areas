@@ -1,0 +1,1 @@
+$(document.body).on("mouseup",function(t){var e=$(".popover.in");e.length&&!e.is(t.target)&&0===e.has(t.target).length&&e.prev(".btn").trigger("click")});

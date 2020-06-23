@@ -1,0 +1,80 @@
+[
+	{
+		"name":"Newfoundland and Labrador",
+		"type":"territory",
+		"sqMiles":144355,
+		"sqKm":373872
+	},
+	{
+		"name":"Prince Edward Island",
+		"type":"territory",
+		"sqMiles":2185,
+		"sqKm":5660
+	},
+	{
+		"name":"Nova Scotia",
+		"type":"territory",
+		"sqMiles":20594,
+		"sqKm":53338
+	},
+	{
+		"name":"New Brunswick",
+		"type":"territory",
+		"sqMiles":27587,
+		"sqKm":71450
+	},
+	{
+		"name":"Quebec",
+		"type":"territory",
+		"sqMiles":527088,
+		"sqKm":1365128
+	},
+	{
+		"name":"Ontario",
+		"type":"territory",
+		"sqMiles":354348,
+		"sqKm":917741
+	},
+	{
+		"name":"Manitoba",
+		"type":"territory",
+		"sqMiles":213733,
+		"sqKm":553556
+	},
+	{
+		"name":"Saskatchewan",
+		"type":"territory",
+		"sqMiles":228449,
+		"sqKm":591670
+	},
+	{
+		"name":"Alberta",
+		"type":"territory",
+		"sqMiles":255541,
+		"sqKm":661848
+	},
+	{
+		"name":"British Columbia",
+		"type":"territory",
+		"sqMiles":357216,
+		"sqKm":925186
+	},
+	{
+		"name":"Yukon",
+		"type":"territory",
+		"sqMiles":183167,
+		"sqKm":474391
+	},
+	{
+		"name":"Northwest Territories",
+		"type":"territory",
+		"sqMiles":456800,
+		"sqKm":1183085
+	},
+	{
+		"name":"Nunavut",
+		"type":"territory",
+		"sqMiles":747551,
+		"sqKm":1936113
+	}
+]
